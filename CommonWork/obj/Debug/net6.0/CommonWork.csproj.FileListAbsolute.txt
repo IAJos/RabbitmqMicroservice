@@ -1,0 +1,12 @@
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\bin\Debug\net6.0\CommonWork.deps.json
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\bin\Debug\net6.0\CommonWork.dll
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\bin\Debug\net6.0\ref\CommonWork.dll
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\bin\Debug\net6.0\CommonWork.pdb
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.csproj.AssemblyReference.cache
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.AssemblyInfoInputs.cache
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.AssemblyInfo.cs
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.csproj.CoreCompileInputs.cache
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.dll
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\ref\CommonWork.dll
+D:\.net\AspNetCore Miscroservices\RabbitMQ ASP NET CORE 5\RabbitmqMicroservice\CommonWork\obj\Debug\net6.0\CommonWork.pdb

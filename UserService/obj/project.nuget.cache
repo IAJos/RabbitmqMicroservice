@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6T172yLMYnBnuLXD7t6aMmFtzipeLcFeNtRktDOrtUJ1vq424U1rp32n2iR6tuYzjrPyQczOyjYPvoZcQ2Xt+A==",
+  "success": true,
+  "projectFilePath": "D:\\.net\\AspNetCore Miscroservices\\RabbitMQ ASP NET CORE 5\\RabbitmqMicroservice\\UserService\\UserService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CHIMI Jospin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CHIMI Jospin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CHIMI Jospin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\CHIMI Jospin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\CHIMI Jospin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\CHIMI Jospin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
